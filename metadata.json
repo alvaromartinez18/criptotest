@@ -1,0 +1,6 @@
+{
+  "name": "Test Coin",
+  "symbol": "TESTCO",
+  "description": "Example token.",
+  "image": "https://raw.githubusercontent.com/alvaromartinez18/criptotest/refs/heads/main/descarga.jpg"
+}
