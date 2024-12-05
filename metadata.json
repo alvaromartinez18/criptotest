@@ -1,13 +1,12 @@
 {
-  "name": "Test Coin",
-  "symbol": "TESTCO",
-  "uri": "https://raw.githubusercontent.com/alvaromartinez18/criptotest/refs/heads/main/descarga.jpg",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "9j52Nn7HpoKCrAwBmHvq6zf1zeQkiLSkDtdYLnajKX3G",
-      "verified": true,
-      "share": 100
-    }
-  ]
-}
+    "name": "TESTCOIN",
+    "symbol": "TESTCO",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/alvaromartinez18/criptotest/refs/heads/main/descarga.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "TEST"
+      }
+    ]
+  }
