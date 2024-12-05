@@ -1,11 +1,11 @@
 {
   "name": "Test Coin",
   "symbol": "TESTCO",
-  "uri": "https://example.com/image.png",
+  "uri": "https://raw.githubusercontent.com/alvaromartinez18/criptotest/refs/heads/main/descarga.jpg",
   "seller_fee_basis_points": 500,
   "creators": [
     {
-      "address": "YourWalletAddressHere",
+      "address": "9j52Nn7HpoKCrAwBmHvq6zf1zeQkiLSkDtdYLnajKX3G",
       "verified": true,
       "share": 100
     }
