@@ -1,6 +1,13 @@
 {
   "name": "Test Coin",
   "symbol": "TESTCO",
-  "description": "Example token.",
-  "image": "https://raw.githubusercontent.com/alvaromartinez18/criptotest/refs/heads/main/descarga.jpg"
+  "uri": "https://example.com/image.png",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "YourWalletAddressHere",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
